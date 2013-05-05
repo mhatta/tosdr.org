@@ -2,10 +2,11 @@
  "id": "0fy2lpghxDk",
  "name": "You must use your real name to register",
  "irrelevant": true,
+ "reason": "This point has been judged irrelevant because the requirement of providing true information is a reasonable expectation for a service to have for their users."
  "service": "cloudant",
  "tosdr": {
-         "topic": "user information",
-         "point": "info",
+         "topic": "user-info",
+         "point": "not bad",
          "score": 0, 
          "tldr": "When registering for Cloudant and creating your username and password, you must provide true, accurate, current, and complete information. This includes a real name."
  },
